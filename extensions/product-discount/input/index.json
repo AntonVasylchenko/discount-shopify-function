@@ -1,0 +1,28 @@
+{
+  "cart": {
+    "lines": [
+      {
+        "id": "gid://shopify/CartLine/0",
+        "quantity": 2,
+        "discountId": {
+          "value": "1721100130116"
+        },
+        "merchandise": {
+          "__typename": "ProductVariant",
+          "id": "gid://shopify/ProductVariant/41764407935035"
+        }
+      },
+      {
+        "id": "gid://shopify/CartLine/1",
+        "quantity": 3,
+        "discountId": {
+          "value": "1721100130116"
+        },
+        "merchandise": {
+          "__typename": "ProductVariant",
+          "id": "gid://shopify/ProductVariant/41764408655931"
+        }
+      }
+    ]
+  }
+}
