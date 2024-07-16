@@ -3,9 +3,9 @@
     "lines": [
       {
         "id": "gid://shopify/CartLine/0",
-        "quantity": 2,
+        "quantity": 1,
         "discountId": {
-          "value": "1721100130116"
+          "value": "1721106023520"
         },
         "merchandise": {
           "__typename": "ProductVariant",
@@ -13,14 +13,14 @@
         }
       },
       {
-        "id": "gid://shopify/CartLine/1",
-        "quantity": 3,
+        "id": "gid://shopify/CartLine/0",
+        "quantity": 1,
         "discountId": {
-          "value": "1721100130116"
+          "value": "1721106023520"
         },
         "merchandise": {
           "__typename": "ProductVariant",
-          "id": "gid://shopify/ProductVariant/41764408655931"
+          "id": "gid://shopify/ProductVariant/41764407935035"
         }
       }
     ]
